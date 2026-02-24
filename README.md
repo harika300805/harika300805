@@ -16,6 +16,7 @@ I believe in learning via doing.
 
 ## How to reach me:
 Here's my mail to get in contact with me - harikasama12@gmail.com
+
 I'm open for collaborations, guidance and opportunities.
 
 ## Fun fact:
