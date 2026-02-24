@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**harika300805/harika300805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harika, Computer Science undergrad from Vishnu Institute of Technology.
 
-Here are some ideas to get you started:
+I spend most of my study time learning problem-solving (dsa) and building projects. 
+I like to build projects that solves real life problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning via doing. 
+
+## Tools & Tech
+
+* Java, Python, C, C++, JavaScript
+* HTML, CSS, Tailwind CSS, React
+* Git, GitHub
+* VS Code, Jupyter
+
+## How to reach me:
+Here's my mail to get in contact with me - harikasama12@gmail.com
+I'm open for collaborations, guidance and opportunities.
+
+## Fun fact:
+* Scary nightmares turn my productive mode on.
+* 80-20 rule is not that effective (it is🙂‍↕️). 
+
+
+
